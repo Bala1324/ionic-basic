@@ -1,0 +1,7 @@
+{
+  "name": "mern",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
